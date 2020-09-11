@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Now we're adding a second line.
+
+A third line? No way!
